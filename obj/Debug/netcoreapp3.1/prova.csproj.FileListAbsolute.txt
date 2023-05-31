@@ -1,0 +1,12 @@
+/Users/flaviagodoy/prova/bin/Debug/netcoreapp3.1/prova.deps.json
+/Users/flaviagodoy/prova/bin/Debug/netcoreapp3.1/prova.runtimeconfig.json
+/Users/flaviagodoy/prova/bin/Debug/netcoreapp3.1/prova.runtimeconfig.dev.json
+/Users/flaviagodoy/prova/bin/Debug/netcoreapp3.1/prova.dll
+/Users/flaviagodoy/prova/bin/Debug/netcoreapp3.1/prova.pdb
+/Users/flaviagodoy/prova/obj/Debug/netcoreapp3.1/prova.csprojAssemblyReference.cache
+/Users/flaviagodoy/prova/obj/Debug/netcoreapp3.1/prova.AssemblyInfoInputs.cache
+/Users/flaviagodoy/prova/obj/Debug/netcoreapp3.1/prova.AssemblyInfo.cs
+/Users/flaviagodoy/prova/obj/Debug/netcoreapp3.1/prova.csproj.CoreCompileInputs.cache
+/Users/flaviagodoy/prova/obj/Debug/netcoreapp3.1/prova.dll
+/Users/flaviagodoy/prova/obj/Debug/netcoreapp3.1/prova.pdb
+/Users/flaviagodoy/prova/obj/Debug/netcoreapp3.1/prova.genruntimeconfig.cache
